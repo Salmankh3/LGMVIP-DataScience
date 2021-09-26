@@ -1,0 +1,9 @@
+Dashboard 01 (Analysis by Year):
+
+https://public.tableau.com/app/profile/salman.abdul.rahim/viz/GlobalTerrorismAnalysis1970-2017_16325822944260/Dashboard1
+
+
+
+Dashboard 02 (Analysis by Country):
+
+https://public.tableau.com/app/profile/salman.abdul.rahim/viz/GlobalTerrorismAnalysis1970-2017_16325822944260/Dashboard2
